@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TextReader
+comment0.text=\n\ takes\ external\ data\ file\ to\ store\ in\ the\ program\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=url\ commonWords
+comment1.target=TextReader(URL,\ java.util.LinkedList)
+comment2.params=file
+comment2.target=void\ read(java.lang.String)
+comment3.params=
+comment3.target=java.util.LinkedList\ getAllWords()
+numComments=4

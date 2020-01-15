@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Search
+comment0.text=\n\ Prints\ result\ of\ the\ search\ using\ a\ database\ TreeMap\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=data\ userInput
+comment1.target=Search(DatabaseTree,\ java.lang.String)
+comment2.params=key
+comment2.target=boolean\ contains(java.lang.String)
+comment3.params=inputs
+comment3.target=java.util.ArrayList\ toArrayList(java.lang.String[])
+comment4.params=list
+comment4.target=java.util.ArrayList\ toArrayList(java.util.List)
+comment5.params=inputs
+comment5.target=java.util.ArrayList\ search(java.util.ArrayList)
+comment6.params=inputs
+comment6.target=java.util.ArrayList\ searchOR(java.util.ArrayList)
+comment7.params=urls1\ urls2
+comment7.target=java.util.ArrayList\ searchOR(java.util.ArrayList,\ java.util.ArrayList)
+comment8.params=
+comment8.target=java.util.PriorityQueue\ getFinalURLs()
+comment9.params=
+comment9.target=java.util.ArrayList\ getURLs()
+numComments=10

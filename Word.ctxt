@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\n\ Word\ object\ where\ each\ word\ stores\ all\ URL\ containing\ the\ word\n\n\ @author\ Shiho\ Numakura\ \n\ @version\ 1\n
+comment1.params=key
+comment1.target=Word(java.lang.String)
+comment2.params=key\ url
+comment2.target=Word(java.lang.String,\ URL)
+comment3.params=
+comment3.target=java.lang.String\ getKey()
+comment4.params=
+comment4.target=java.util.ArrayList\ getURLs()
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=URL
+comment0.text=\n\ URL\ object\ where\ stores\ each\ URL\ information\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=URL\ reliability\ fileName
+comment1.target=URL(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ initialPriority()
+comment3.params=url
+comment3.target=int\ compareTo(URL)
+comment4.params=
+comment4.target=java.lang.String\ getURL()
+comment5.params=
+comment5.target=java.lang.String\ getReliability()
+comment6.params=
+comment6.target=java.lang.String\ getFileName()
+comment7.params=
+comment7.target=float\ getPriority()
+comment8.params=
+comment8.target=void\ addPriority()
+comment9.params=newPriority
+comment9.target=void\ setPriority(float)
+numComments=10

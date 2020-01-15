@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=fileReader2
+comment0.text=\n\ Takes\ common\ words\ from\ an\ external\ file\ into\ the\ program\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=file
+comment1.target=fileReader2(java.lang.String)
+comment2.params=file
+comment2.target=void\ read(java.lang.String)
+comment3.params=
+comment3.target=java.util.LinkedList\ getCommonWords()
+numComments=4

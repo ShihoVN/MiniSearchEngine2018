@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DatabaseTree
+comment0.text=\n\ Stores\ all\ data\ into\ a\ database\ tree\ map\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=FR\ FR2
+comment1.target=DatabaseTree(fileReader,\ fileReader2)
+comment2.params=word\ url
+comment2.target=boolean\ addWord(java.lang.String,\ URL)
+comment3.params=
+comment3.target=java.util.TreeMap\ getTree()
+numComments=4

@@ -1,0 +1,5 @@
+www.elephants.com medium AllAboutElephantsSample.txt
+https://www.choosemyplate.gov/vegetables-nutrients-health low HealthyEating.txt
+https://www.coolkidfacts.com/horse-facts/ medium AllAboutHorses.txt
+http://easyscienceforkids.com/all-about-peacocks/ high AllAboutPeacocks.txt
+https://familydoctor.org/nutrition-tips-for-kids/ medium HealthyHabitsForKids.txt

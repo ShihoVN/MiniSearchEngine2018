@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=fileReader
+comment0.text=\n\ Scans\ for\ all\ given\ data\ to\ use\ from\ external\ file\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=file
+comment1.target=fileReader(java.lang.String)
+comment2.params=file
+comment2.target=void\ read(java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getURLs()
+numComments=4
